@@ -1,0 +1,8 @@
+Booking Id: 6895
+Name: Sunnam sai jyothi swaroop 
+Mobile: 7287945265
+MailID:sjswaroop5225@gmail.com
+MyTheater:pvr trends
+mymoviename:Baahubali
+Myseat: Platinum
+Your Bill is 250
